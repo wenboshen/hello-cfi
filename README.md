@@ -16,7 +16,6 @@ obj-y				+= hello_cfi_asm.o
 ```
 cat /proc/hello_cfi 
 echo [0-5] > /proc/hello_cfi
-
 ```
 
 
