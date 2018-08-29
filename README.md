@@ -3,6 +3,7 @@
 ## Kernel CFI based on Clang
 
 This project hosts two source files for a kernel proc module.
+Verified working for kernel v4.14.
 
 ### Build 
 1. Add these two source file to `kernel/drivers/misc`
